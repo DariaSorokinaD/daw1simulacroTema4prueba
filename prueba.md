@@ -4,29 +4,29 @@
 
 ![ejercicio 1](img/1.png)
 
-# EJERCICIO 1
+# EJERCICIO 2
 
-![ejercicio 1](img/1.png)
+![ejercicio 2](img/2.png)
 
-# EJERCICIO 1
+# EJERCICIO 3
 
-![ejercicio 1](img/1.png)
+![ejercicio 3](img/3.png)
 
-# EJERCICIO 1
+# EJERCICIO 4
 
-![ejercicio 1](img/1.png)
+![ejercicio 4](img/4.png)
 
-# EJERCICIO 1
+# EJERCICIO 5
 
-![ejercicio 1](img/1.png)
+![ejercicio 5](img/5.png)
 
-# EJERCICIO 1
+# EJERCICIO 6
 
-![ejercicio 1](img/1.png)
+![ejercicio 6](img/6.png)
 
-# EJERCICIO 1
+# EJERCICIO 7
 
-![ejercicio 1](img/1.png)
+![ejercicio 7](img/7.png)
 
 # EJERCICIO 1
 
