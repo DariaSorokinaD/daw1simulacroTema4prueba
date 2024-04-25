@@ -27,28 +27,3 @@
 # EJERCICIO 7
 
 ![ejercicio 7](img/7.png)
-
-# EJERCICIO 1
-
-![ejercicio 1](img/1.png)
-
-# EJERCICIO 1
-
-![ejercicio 1](img/1.png)
-
-# EJERCICIO 1
-
-
-![ejercicio 1](img/1.png)
-
-# EJERCICIO 1
-
-![ejercicio 1](img/1.png)
-
-# EJERCICIO 1
-
-![ejercicio 1](img/1.png)
-
-# EJERCICIO 1
-
-![ejercicio 1](img/1.png)
